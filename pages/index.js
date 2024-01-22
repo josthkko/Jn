@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>JN page is here!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="The entire universe has been neatly divided into things to (a) mate with, (b) eat, (c) run away from, and (d) rocks." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Terry Pratchett
         </p>
       </main>
 
