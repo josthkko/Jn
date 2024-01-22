@@ -16,8 +16,6 @@ export default function Home() {
           Terry Pratchett
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
